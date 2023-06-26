@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "9a424ca0-2d96-455b-9cb8-26c8cca5028e"
+      }
+    },
+    "android": {
+      "package": "com.sagar2702.cryptorn"
+    }
+  }
+}
